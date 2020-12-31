@@ -1,2 +1,0 @@
-# aminoDetector
-Botdetector.py
